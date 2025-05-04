@@ -1675,7 +1675,7 @@
             
             <div class="social-links">
                 <a href="https://www.instagram.com/codex._.heoster?igsh=MTF1Mzl3MmFnbGxpMg==" class="social-link" aria-label="Instagram" data-aos="fade-up" data-aos-delay="100"> <i class="fab fa-instagram"></i></a>
-                <a href=" #" class="social-link" aria-label="Instagram"" data-aos="fade-up" data-aos-delay="200"><i class="fab fa-instagram"></i></a>
+                
                 <a href="https://github.com/Heoster" class="social-link" aria-label="Github" data-aos="fade-up" data-aos-delay="300"><i class="fab fa-github"></i></a>
                 <a href="https://chat.whatsapp.com/CNkUA5HS05D9htJ1KLwkrk" class="social-link" aria-label="WhatsApp" data-aos="fade-up" data-aos-delay="400"><i class="fab fa-whatsapp"></i></a>
             </div>
