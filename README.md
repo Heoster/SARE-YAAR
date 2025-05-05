@@ -1674,7 +1674,7 @@
             <h3 data-aos="fade-up">SARE YAAR - Class of 2024</h3>
             
             <div class="social-links">
-            <a href="#" class="social-link" aria-label="instagram" data-aos="fade-up"data-aos-delay="400"><i class="fab fa-instagram"></i></a>
+          
             
                 <a href="https://www.instagram.com/codex._.heoster?igsh=MTF1Mzl3MmFnbGxpMg==" class="social-link" aria-label="Instagram" data-aos="fade-up" data-aos-delay="100"> <i class="fab fa-instagram"></i></a>
                 
