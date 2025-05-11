@@ -1817,5 +1817,24 @@
         // Initialize on load
         window.addEventListener('load', updateThemeForElements);
     </script>
+    <script type="module">
+  // Import the functions you need from the SDKs you need
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/11.7.1/firebase-app.js";
+  // TODO: Add SDKs for Firebase products that you want to use
+  // https://firebase.google.com/docs/web/setup#available-libraries
+
+  // Your web app's Firebase configuration
+  const firebaseConfig = {
+    apiKey: "AIzaSyD-EjQd3CmcDknq1YX4PKTQH7H98un3X3o",
+    authDomain: "forever-friends-9e7oh.firebaseapp.com",
+    projectId: "forever-friends-9e7oh",
+    storageBucket: "forever-friends-9e7oh.firebasestorage.app",
+    messagingSenderId: "122422975697",
+    appId: "1:122422975697:web:dae09c0f72f0bc953379f0"
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+</script>
 </body>
 </html>
